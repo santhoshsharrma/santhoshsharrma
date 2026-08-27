@@ -123,8 +123,6 @@
 
 <br>
 
-<br>
-
 ## 🎯 `> cat currently-preparing.log`
 
 - 📚 **GATE 2027** — Computer Science & Information Technology
