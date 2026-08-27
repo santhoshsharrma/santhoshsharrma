@@ -98,7 +98,7 @@ Currently building with Java, Spring Boot, PostgreSQL and AWS so I can actually 
 
 ## 🏆 `> cat achievements.log`
 
-- Spearheaded a 3-member team from development to final delivery, secured **2nd place** among *120* participants i.e; Top 1.67% for __Top Performing Project__.
+- **2nd Place — Best Project Award** · Spearheaded a 3-member team among 120 participants (Top 1.7%)
 - **5th Place — National-Level Hackathon**(*BrainOVision*) · Ranked among **Top 0.7%**
 
 <br>
