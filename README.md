@@ -1,12 +1,3 @@
-<!--
-  TODO before publishing (won't render on GitHub, just notes for you):
-  1. LinkedIn badge still points to a placeholder handle — swap YOUR-LINKEDIN-HANDLE for your real one.
-  2. Project links (titanic-survival-analysis, global-life-expectancy-analysis, cli-toolkit) are my best
-     guess at your repo slugs based on your project titles — double check they match your actual repo names.
-  3. The Minecraft snake block near the bottom needs a one-time workflow file to go live — see the
-     "snake.yml" file included alongside this README, and the setup note right above the block.
--->
-
 <div align="center">
 
 ```
@@ -23,7 +14,7 @@
 `CS UNDERGRAD` · `CLASS OF 2027` · `HYDERABAD, INDIA` <img src = "https://cdn.discordapp.com/emojis/805832480472957009.webp?size=40&animated=true" width="25">
 
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santhoshsharmapaturi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhoshsharma)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santhoshsharrma)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-F7B32B?style=for-the-badge&logo=vercel&logoColor=black)](https://santhoshsharrma.github.io)
 
@@ -126,7 +117,7 @@ Currently building with Java, Spring Boot & PostgreSQL,  AWS so I can actually d
 ## ⛏️ `> mine --contributions`
 
 
-<!-- Snake that "mines" through the grid — needs the one-time workflow below to go live -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santhoshsharrma/santhoshsharrma/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santhoshsharrma/santhoshsharrma/output/github-snake.svg" />
@@ -157,7 +148,5 @@ Currently building with Java, Spring Boot & PostgreSQL,  AWS so I can actually d
 <div align="center">
 
 📫 **santhoshsharmapaturi@gmail.com** &nbsp;|&nbsp; Open to backend / software engineering internships & roles
-
-`INSERT COIN TO CONTINUE ▸ PRESS START`
 
 </div>
