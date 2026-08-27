@@ -135,9 +135,6 @@ Currently building with Java, Spring Boot & PostgreSQL,  AWS so I can actually d
 </picture>
 
 </div>
-
-> **One-time setup to bring the snake to life:** drop the included `snake.yml` into `.github/workflows/` in your **profile repo** (`santhoshsharrma/santhoshsharrma`), push it, then run it once from the Actions tab. It regenerates every 6 hours after that. Until then, GitHub just shows a broken image for that block — the grass chart above works immediately since it needs no setup.
-
 <br>
 
 ## 📊 `> stats --live`
