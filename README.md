@@ -112,8 +112,8 @@ Currently building with Java, Spring Boot & PostgreSQL,  AWS so I can actually d
 ## 🏆 `> cat achievements.log`
 
 - **5th Place — National-Level Hackathon** · Ranked among **Top 0.7%**
-- **1st Place — Chess** · [Competition / Event Name]
-- **1st Place — Kabaddi** · [Competition / Event Name]
+- **1st Place — Chess**
+- **1st Place — Kabaddi**
 
 <br>
 
