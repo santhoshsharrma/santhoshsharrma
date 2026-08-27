@@ -80,7 +80,6 @@ Currently building with Java, Spring Boot, PostgreSQL and AWS so I can actually 
 ## 🎮 `> ls featured-projects/`
 - **[Startup Fund Intelligence — Funding Dashboard](https://github.com/santhoshsharrma/startupfundinganalysis)** · [**Live Demo ↗**](https://startupfunding-analysis.vercel.app/)  
   Reduced startup-funding analysis from fragmented dataset exploration to a single dashboard workflow, analyzing **500 records across 6 dimensions** with interactive filtering, KPI aggregation, sortable deal analysis, and visual trend discovery.
-**Spearheaded a 3-member team from development to final delivery, securing 2nd place among 120 participants (Top 1.67%) for Best Project.**
   `React` `Vite` `JavaScript` `Recharts`
 
 - **[CORRLY — Correlation Matrix Analyzer](https://github.com/santhoshsharrma/correlation-matrix-analyzer)** · [**Live Demo ↗**](https://santhoshsharrma.github.io/correlation-matrix-analyzer/)  
@@ -99,9 +98,8 @@ Currently building with Java, Spring Boot, PostgreSQL and AWS so I can actually 
 
 ## 🏆 `> cat achievements.log`
 
-- **5th Place — National-Level Hackathon** · Ranked among **Top 0.7%**
-- **1st Place — Chess**
-- **1st Place — Kabaddi**
+- Spearheaded a 3-member team from development to final delivery, secured **2nd place** among *120* participants i.e; Top 1.67% for __Top Performing Project__.
+- **5th Place — National-Level Hackathon**(*BrainOVision*) · Ranked among **Top 0.7%**
 
 <br>
 
