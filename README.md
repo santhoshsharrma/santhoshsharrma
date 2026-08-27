@@ -107,14 +107,6 @@
 
 <br>
 
-## 🏆 `> cat certifications.log`
-
-- 🟢 **HackerRank — Problem Solving** *(Algorithms, Data Structures)*
-- 🟢 **AI Fluency for Students — Anthropic** *(Generative AI, Prompt Engineering)*
--  **Gemini Certified Student — Google** *(Applied AI)*
-
-<br>
-
 ## 🏆 `> cat achievements.log`
 
 - **5th Place — National-Level Hackathon** · Ranked among **Top 0.7%**
@@ -127,16 +119,6 @@
 
 - 📚 **GATE 2027** — Computer Science & Information Technology
 - 🐙 **GitHub Foundations Certification** — Currently Preparing
-
-<br>
-
-## 🎓 `> cat education.log`
-
-**Bachelor of Technology, Computer Science**
-Siddhartha Institute of Technology and Sciences (SITS-Hyd), UGC Autonomous
-Sep 2023 – Jun 2027 · CGPA: 8.18 / 10
-
-Health Initiative Coordinator (blood donation camps, cancer awareness drives) and Community Youth Ambassador for VPRF.
 
 <br>
 
