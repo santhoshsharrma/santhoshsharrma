@@ -164,16 +164,17 @@ Health Initiative Coordinator (blood donation camps, cancer awareness drives) an
 
 <br>
 
-## 📊 `> stats --live` (grass-and-dirt block theme)
+## 📊 `> stats --live`
 
 <div align="center">
 
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=santhoshsharrma&background=linear-gradient(180deg,%236DB33F%200%25,%236DB33F%2035%25,%237B4B27%2035%25,%237B4B27%20100%25)&color=%23FFF8E7&dithering=true&pixelate_avatar=true" alt="pixel-art commits, contributions & rank card" width="48%" />
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=santhoshsharrma&background=linear-gradient(180deg,%236DB33F%200%25,%236DB33F%2035%25,%237B4B27%2035%25,%237B4B27%20100%25)&color=%23FFF8E7&dithering=true&pixelate_avatar=true" alt="pixel-art commits, contributions & rank card" width="40%" />
+
+<br>
+
+<br> 
+
 <img src="https://streak-stats.demolab.com/?user=santhoshsharrma&background=1B1B1B&border=6DB33F&ring=6DB33F&fire=F7B32B&currStreakLabel=F7B32B&sideLabels=FFF8E7&currStreakNum=FFF8E7&sideNums=FFF8E7&dates=8A8A8A" alt="current & longest streak" width="48%" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhoshsharrma&layout=compact&bg_color=1B1B1B&title_color=F7B32B&text_color=FFF8E7&icon_color=6DB33F&border_color=6DB33F" alt="most-used languages" width="48%" />
 
 </div>
 
