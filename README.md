@@ -71,8 +71,7 @@ Currently building with Java, Spring Boot, PostgreSQL and AWS so I can actually 
 
 ## ⚡ `> currently_building.run()`
 
-**Java Image Crawler** — a backend project I'm building to get hands-on with Java I/O, HTTP requests, and basic concurrency: it crawls a page, pulls image URLs, and downloads them to disk concurrently.
-🔗 Repo: `github.com/santhoshsharrma/java-image-crawler` *(link goes live once pushed)* <img src="https://cdn.discordapp.com/emojis/828382013198958652.webp?size=40" width="30">
+**Java Image Crawler** — a backend project I'm building to get hands-on with Java I/O, HTTP requests, and basic concurrency: it crawls a page, pulls image URLs, and downloads them to disk concurrently.<img src="https://cdn.discordapp.com/emojis/828382013198958652.webp?size=40" width="30">
 
 <br>
 
@@ -120,7 +119,6 @@ Currently building with Java, Spring Boot, PostgreSQL and AWS so I can actually 
   <img alt="pixel snake mining through the contribution graph" src="https://raw.githubusercontent.com/santhoshsharrma/santhoshsharrma/output/github-snake.svg" width="90%" />
 </picture>
 
-</div>
 <br>
 
 ## 📊 `> stats --live`
