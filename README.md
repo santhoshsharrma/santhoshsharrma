@@ -35,9 +35,9 @@
 
 ## 👾 `> whoami`
 
-<img src = "https://cdn.discordapp.com/emojis/1369792026387677354.webp?size=40&animated=true" width="25"> I'm a Computer Science undergrad at [SITS](https://siddhartha.org.in/), graduating in 2027. I started out in data science and analytics, and along the way realized what I actually enjoy is building the systems that move and serve data, not just analyzing it. That's what pulled me toward backend engineering. 
+<img src = "https://cdn.discordapp.com/emojis/1369792026387677354.webp?size=40&animated=true" width="25"> I'm a CS undergrad at [SITS](https://siddhartha.org.in/). Along the way, I realised that I enjoy is building the systems that move and serve data, not just analyse it. That's what pulled me toward backend engineering. 
 
-Currently building with Java and Spring Boot, working with PostgreSQL, and picking up AWS so I can actually deploy what I build instead of just running it locally. I like working on command line, version control, and code I can trace step by step. Outside of the stack, I'm interested in design thinking, User Experience, and watching loooong documentaries <img src ="https://cdn.discordapp.com/emojis/937428340011327599.webp?size=40&animated=true" width="30">
+Currently building with Java, Spring Boot & PostgreSQL,  AWS so I can actually deploy what I build instead of just running it locally. I like working on command line, version control, and code I can trace step by step. Outside of the stack, I'm interested in design thinking, User Experience, and watching loooong documentaries <img src ="https://cdn.discordapp.com/emojis/937428340011327599.webp?size=40&animated=true" width="30">
 
 <br>
 
