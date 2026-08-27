@@ -122,14 +122,8 @@
 
 <br>
 
-## ⛏️ `> mine --contributions` (Minecraft world, live from GitHub)
+## ⛏️ `> mine --contributions`
 
-<div align="center">
-
-<!-- Real commit squares, recolored to a grass-block green -->
-<img src="https://ghchart.rshah.org/6DB33F/santhoshsharrma" alt="Santhosh's commit boxes, grass-block green" width="90%" />
-
-<br><br>
 
 <!-- Snake that "mines" through the grid — needs the one-time workflow below to go live -->
 <picture>
