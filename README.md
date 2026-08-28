@@ -71,7 +71,11 @@ Currently building with Java, Spring Boot, PostgreSQL and AWS so I can actually 
 
 ## ⚡ `> currently_building.run()`
 
-**Java Image Crawler** — a backend project I'm building to get hands-on with Java I/O, HTTP requests, and basic concurrency: it crawls a page, pulls image URLs, and downloads them to disk concurrently.<img src="https://cdn.discordapp.com/emojis/828382013198958652.webp?size=40" width="30">
+**Gamification & Real-Time Leaderboard Engine**:
+A Spring Boot backend that grants XP for user events, tracks daily streaks across timezones without the UTC-midnight bug, and serves leaderboard ranks via Redis Sorted Sets in sub-5ms. Also hardened against duplicate-event double-XP bugs using a Redis-backed idempotency filter.
+<img src="https://cdn.discordapp.com/emojis/828382013198958652.webp?size=40" width="30">
+
+`Java` `Spring Boot` `Redis` `PostgreSQL` `Docker`
 
 <br>
 
