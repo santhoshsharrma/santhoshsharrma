@@ -51,7 +51,6 @@ Currently building with Java, Spring Boot, PostgreSQL and AWS so I can actually 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=flat-square&logo=zsh&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 **Dev Tools**
@@ -71,16 +70,21 @@ Currently building with Java, Spring Boot, PostgreSQL and AWS so I can actually 
 
 ## ⚡ `> currently_building.run()`
 
-**Gamification & Real-Time Leaderboard Engine**:
-A Spring Boot backend that grants XP for user events, tracks daily streaks across timezones without the UTC-midnight bug, and serves leaderboard ranks via Redis Sorted Sets in sub-5ms. Also hardened against duplicate-event double-XP bugs using a Redis-backed idempotency filter.
+**Monetra - A Wallet & Double-Entry Ledger System**:
+A Spring Boot backend that processes wallet-to-wallet transfers using atomic PostgreSQL transactions and double-entry accounting. Prevents duplicate transfers with idempotency keys and handles concurrent withdrawals using row-level locking to maintain financial consistency.
 <img src="https://cdn.discordapp.com/emojis/828382013198958652.webp?size=40" width="30">
 
-`Java` `Spring Boot` `Redis` `PostgreSQL` `Docker`
+`Java` `Spring Boot` `Redis` `PostgreSQL` `Docker` `k6` `JUnit 5` `JDBC`
 
 <br>
 
 
 ## 🎮 `> ls featured-projects/`
+
+- **[XP Engine — Gamification & Real-Time Leaderboard Engine](https://github.com/santhoshsharrma/xp-engine)**  
+  Built a Java Spring Boot REST API for XP awards, daily streaks, and Redis-backed leaderboards, implementing idempotent event processing and PostgreSQL transaction locking to prevent duplicate awards and lost updates. Benchmarked ranking across **1M+ users**, achieving **20.6× faster p50 rank lookups** with Redis; load-tested at **899 requests/sec** with **60.55 ms p95 latency** and **0% HTTP failures** in *local environment*.  
+  `Java 21` `Spring Boot` `PostgreSQL` `Redis` `Docker` `JUnit 5` `k6`
+
 - **[Startup Fund Intelligence — Funding Dashboard](https://github.com/santhoshsharrma/startupfundinganalysis)** · [**Live Demo ↗**](https://startupfunding-analysis.vercel.app/)  
   Reduced startup-funding analysis from fragmented dataset exploration to a single dashboard workflow, analyzing **500 records across 6 dimensions** with interactive filtering, KPI aggregation, sortable deal analysis, and visual trend discovery.
   `React` `Vite` `JavaScript` `Recharts`
@@ -89,9 +93,8 @@ A Spring Boot backend that grants XP for user events, tracks daily streaks acros
   Cut exploratory correlation analysis from **7 manual steps to 2 operations — a 71.4% reduction** — by automating dataset analysis, correlation-matrix computation, high-correlation detection, visualization, and report generation with AI-assisted insights.  
   `JavaScript` `Statistics` `Data Visualization`
 
-- **[Renewly — Subscription Intelligence CLI](https://github.com/santhoshsharrma/renewly)**  
-  Automated **7+ subscription-management operations** through a cross-platform Python CLI, combining validated CRUD, persistent JSON storage, renewal-date computation, spending analytics, and renewal tracking.  
-  `Python` `CLI` `JSON` `Data Modeling`
+- **[Java Image Crawler](https://github.com/santhoshsharrma/java-image-crawler):** Built a Java-based web crawler to discover and download images from web pages, automating image collection through URL processing and web content extraction.
+   `Java` `Web Crawling` `HTML Parsing` `Maven`
 
 - **[Titanic Survival — Correlation Analysis + Random Forest](https://www.kaggle.com/code/theodorossantos/titanic-who-survived-and-why)** · [**Notebook ↗**](https://www.kaggle.com/code/theodorossantos/titanic-who-survived-and-why)  
   Achieved **82% prediction accuracy** by analyzing **4+ survival-driving features**, applying correlation-guided feature engineering, and training a Random Forest classifier.  
@@ -108,8 +111,9 @@ A Spring Boot backend that grants XP for user events, tracks daily streaks acros
 
 ## 🎯 `> cat currently-preparing.log`
 
-- 📚 **GATE 2027** — Computer Science & Information Technology
+- 📚 **System Design**
 - 🐙 **GitHub Foundations Certification** — Currently Preparing
+- 🐙 **MongoDB Associate Developer Exam** — Currently Preparing
 
 <br>
 
