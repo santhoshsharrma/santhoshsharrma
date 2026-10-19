@@ -11,115 +11,93 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&pause=1200&color=F7B32B&center=true&vCenter=true&width=600&lines=BACKEND+ENGINEER.EXE;JAVA+%2B+SPRING+BOOT+%2B+SQL;PLAYER+CLASS%3A+BACKEND;LOADING+PORTFOLIO..." alt="typing banner" />
 
-`CS UNDERGRAD` · `CLASS OF 2027` · `HYDERABAD, INDIA` <img src = "https://cdn.discordapp.com/emojis/805832480472957009.webp?size=40&animated=true" width="25">
+`CS UNDERGRAD` · `CLASS OF 2027` · `HYDERABAD, INDIA`
 
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santhoshsharmapaturi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhoshsharma)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santhoshsharrma)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-F7B32B?style=for-the-badge&logo=vercel&logoColor=black)](https://santhoshsharrma.github.io)
 
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-
 </div>
 
-<br>
+---
 
 ## 👾 `> whoami`
 
-<img src = "https://cdn.discordapp.com/emojis/1369792026387677354.webp?size=40&animated=true" width="25"> I'm a CS undergrad at [SITS](https://siddhartha.org.in/). Along the way, I realised that I enjoy building the systems that move and serve data, not just analysing it. That's what pulled me toward backend engineering. 
+CS undergrad at [SITS](https://siddhartha.org.in/). I started in data science and realised I enjoy building the systems that **move and serve** data more than analysing it. That pulled me toward backend engineering.
 
-Currently building with Java, Spring Boot, PostgreSQL and AWS so I can actually deploy what I build instead of just running it locally. I like working on the command line, version control, and code I can trace step by step. Outside of the stack, I'm interested in design thinking, User Experience, and watching loooong documentaries <img src ="https://cdn.discordapp.com/emojis/937428340011327599.webp?size=40&animated=true" width="30">
+Right now I'm building with **Java, Spring Boot, PostgreSQL, Redis and AWS**, and I want to deploy what I build, not just run it locally. I like the command line, version control, and code I can trace step by step. Outside the stack: design thinking, UX, psychology, and *loooong* documentaries.
 
-<br>
+> **Open to backend / software engineering internships and entry-level roles.**
+
+---
 
 ## 🧱 `> inventory --tech-stack`
 
-**Backend**
+| | |
+|---|---|
+| **Backend** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-000000?style=flat-square&logo=swagger&logoColor=white) |
+| **Data & Caching** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white) ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **From my data background** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-000000?style=flat-square&logo=swagger&logoColor=white)
-
-**Databases & Caching**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-**Dev Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Also comfortable in** *(from my data science background)*
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-<br>
+---
 
 ## ⚡ `> currently_building.run()`
 
-**Monetra - A Wallet & Double-Entry Ledger System**:
-A Spring Boot backend that processes wallet-to-wallet transfers using atomic PostgreSQL transactions and double-entry accounting. Prevents duplicate transfers with idempotency keys and handles concurrent withdrawals using row-level locking to maintain financial consistency.
-<img src="https://cdn.discordapp.com/emojis/828382013198958652.webp?size=40" width="30">
+### Monetra — Wallet & Double-Entry Ledger System
+A Spring Boot backend for wallet-to-wallet transfers using atomic PostgreSQL transactions and double-entry accounting. Idempotency keys prevent duplicate transfers, and row-level locking keeps concurrent withdrawals consistent.
 
-`Java` `Spring Boot` `Redis` `PostgreSQL` `Docker` `k6` `JUnit 5` `JDBC`
+`Java` `Spring Boot` `PostgreSQL` `Redis` `Docker` `k6` `JUnit 5` `JDBC`
 
-<br>
-
+---
 
 ## 🎮 `> ls featured-projects/`
 
-- **[XP Engine — Gamification & Real-Time Leaderboard Engine](https://github.com/santhoshsharrma/xp-engine)**  
-  Built a Java Spring Boot REST API for XP awards, daily streaks, and Redis-backed leaderboards, implementing idempotent event processing and PostgreSQL transaction locking to prevent duplicate awards and lost updates. Benchmarked ranking across **1M+ users**, achieving **20.6× faster p50 rank lookups** with Redis; load-tested at **899 requests/sec** with **60.55 ms p95 latency** and **0% HTTP failures** in *local environment*.  
-  `Java 21` `Spring Boot` `PostgreSQL` `Redis` `Docker` `JUnit 5` `k6`
+### 🥇 [XP Engine — Gamification & Real-Time Leaderboard Engine](https://github.com/santhoshsharrma/xp-engine)
+Java Spring Boot REST API for XP awards, daily streaks and Redis-backed leaderboards. Idempotent event processing and PostgreSQL transaction locking prevent duplicate awards and lost updates.
 
-- **[Startup Fund Intelligence — Funding Dashboard](https://github.com/santhoshsharrma/startupfundinganalysis)** · [**Live Demo ↗**](https://startupfunding-analysis.vercel.app/)  
-  Reduced startup-funding analysis from fragmented dataset exploration to a single dashboard workflow, analyzing **500 records across 6 dimensions** with interactive filtering, KPI aggregation, sortable deal analysis, and visual trend discovery.
-  `React` `Vite` `JavaScript` `Recharts`
+- **20.6× faster** p50 rank lookups with Redis, benchmarked across **1M+ users**
+- **899 req/s** at **60.55 ms p95** with **0% HTTP failures** *(local environment)*
 
-- **[CORRLY — Correlation Matrix Analyzer](https://github.com/santhoshsharrma/correlation-matrix-analyzer)** · [**Live Demo ↗**](https://santhoshsharrma.github.io/correlation-matrix-analyzer/)  
-  Cut exploratory correlation analysis from **7 manual steps to 2 operations — a 71.4% reduction** — by automating dataset analysis, correlation-matrix computation, high-correlation detection, visualization, and report generation with AI-assisted insights.  
-  `JavaScript` `Statistics` `Data Visualization`
+`Java 21` `Spring Boot` `PostgreSQL` `Redis` `Docker` `JUnit 5` `k6`
 
-- **[Java Image Crawler](https://github.com/santhoshsharrma/java-image-crawler):** Built a Java-based web crawler to discover and download images from web pages, automating image collection through URL processing and web content extraction.
-   `Java` `Web Crawling` `HTML Parsing` `Maven`
+### 🕷️ [Java Image Crawler](https://github.com/santhoshsharrma/java-image-crawler)
+Discovers and downloads images from web pages, automating collection through URL processing and HTML content extraction.
 
-- **[Titanic Survival — Correlation Analysis + Random Forest](https://www.kaggle.com/code/theodorossantos/titanic-who-survived-and-why)** · [**Notebook ↗**](https://www.kaggle.com/code/theodorossantos/titanic-who-survived-and-why)  
-  Achieved **82% prediction accuracy** by analyzing **4+ survival-driving features**, applying correlation-guided feature engineering, and training a Random Forest classifier.  
-  `Python` `pandas` `scikit-learn`
+`Java` `Web Crawling` `HTML Parsing` `Maven`
 
-<br>
+### 📊 Data projects *(where I started)*
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**Startup Fund Intelligence**](https://github.com/santhoshsharrma/startupfundinganalysis) · [Live ↗](https://startupfunding-analysis.vercel.app/) | Turned fragmented funding exploration into one dashboard: **500 records, 6 dimensions**, interactive filters, KPI aggregation, sortable deals | `React` `Vite` `Recharts` |
+| [**CORRLY**](https://github.com/santhoshsharrma/correlation-matrix-analyzer) · [Live ↗](https://santhoshsharrma.github.io/correlation-matrix-analyzer/) | Cut correlation analysis from **7 manual steps to 2 (71.4% reduction)** with automated matrix, high-correlation detection, visuals and AI-assisted reports | `JavaScript` `Statistics` |
+| [**Titanic Survival**](https://www.kaggle.com/code/theodorossantos/titanic-who-survived-and-why) | **82% accuracy** with correlation-guided feature engineering and a Random Forest | `Python` `pandas` `scikit-learn` |
+
+---
 
 ## 🏆 `> cat achievements.log`
 
-- **2nd Place — Best Project Award** · Spearheaded a 3-member team among 120 participants (Top 1.7%)
-- **5th Place — National-Level Hackathon**(*BrainOVision*) · Ranked among **Top 0.7%**
+- 🥈 **2nd Place, Best Project Award**: led a 3-member team among 120 participants (top 1.7%)
+- 🏅 **5th Place, National-Level Hackathon** (*BrainOVision*): top 0.7%
+- 📄 **Published research**: [*Startup Financial Funding Trends and Investment Insights*](https://ijdim.com/journal/index.php/ijdim/article/view/1412) (IJDIM, Sep 2026), spearheaded a 3-person team
 
-<br>
+---
 
 ## 🎯 `> cat currently-preparing.log`
 
 - 📚 **System Design**
-- 🐙 **GitHub Foundations Certification** — Currently Preparing
-- 🐙 **MongoDB Associate Developer Exam** — Currently Preparing
+- 🐙 **GitHub Foundations Certification**
+- 🍃 **MongoDB Associate Developer Exam**
 
-<br>
+---
 
 ## ⛏️ `> mine --contributions`
 
-
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santhoshsharrma/santhoshsharrma/output/github-snake-dark.svg" />
@@ -127,27 +105,15 @@ A Spring Boot backend that processes wallet-to-wallet transfers using atomic Pos
   <img alt="pixel snake mining through the contribution graph" src="https://raw.githubusercontent.com/santhoshsharrma/santhoshsharrma/output/github-snake.svg" width="90%" />
 </picture>
 
-<br>
-
-## 📊 `> stats --live`
-
-<div align="center">
-
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=santhoshsharrma&background=linear-gradient(180deg,%236DB33F%200%25,%236DB33F%2035%25,%237B4B27%2035%25,%237B4B27%20100%25)&color=%23FFF8E7&dithering=true&pixelate_avatar=true" alt="pixel-art commits, contributions & rank card" width="40%" />
-
-<br>
-
-<br> 
-
-<img src="https://streak-stats.demolab.com/?user=santhoshsharrma&background=1B1B1B&border=6DB33F&ring=6DB33F&fire=F7B32B&currStreakLabel=F7B32B&sideLabels=FFF8E7&currStreakNum=FFF8E7&sideNums=FFF8E7&dates=8A8A8A" alt="current & longest streak" width="48%" />
-
 </div>
 
-<br>
-
-![divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+## 📊 `> stats --daily`
 
 <div align="center">
+
+<img src="./github-metrics.svg" alt="GitHub metrics" width="90%" />
+
+<br><br>
 
 📫 **santhoshsharmapaturi@gmail.com** &nbsp;|&nbsp; Open to backend / software engineering internships & roles
 
