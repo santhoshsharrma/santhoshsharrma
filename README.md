@@ -83,7 +83,7 @@ Discovers and downloads images from web pages, automating collection through URL
 
 - 🥈 **2nd Place, Best Project Award**: led a 3-member team among 120 participants (top 1.7%)
 - 🏅 **5th Place, National-Level Hackathon** (*BrainOVision*): top 0.7%
-- 📄 **Published research**: [*Startup Financial Funding Trends and Investment Insights*](https://ijdim.com/journal/index.php/ijdim/article/view/1412) (IJDIM, Sep 2026), spearheaded a 3-person team
+- 📄 **Published research**: [*The Smart Property Risk Detection*](https://www.irjmets.com/paperdetail.php?paperId=fc3ccec3a0152477f42d0a9dba0bcbed) (IRJMETS, Mar 2025), led a 4-person team
 
 ---
 
@@ -111,7 +111,7 @@ Discovers and downloads images from web pages, automating collection through URL
 
 <div align="center">
 
-<img src="./github-metrics.svg" alt="GitHub metrics" width="90%" />
+<img src="./github-metrics.svg" alt="GitHub metrics" width="480" />
 
 <br><br>
 
