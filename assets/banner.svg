@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="Santhosh Sharma, backend developer">
+  <title>Santhosh Sharma — Backend developer</title>
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .ticker { animation: slide 28s linear infinite; }
+    @keyframes slide { from { transform: translateX(0); } to { transform: translateX(-1500px); } }
+    .fade { animation: fade 0.9s ease-out both; }
+    @keyframes fade { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: translateY(0); } }
+    .d1 { animation-delay: 0.1s; } .d2 { animation-delay: 0.3s; } .d3 { animation-delay: 0.5s; } .d4 { animation-delay: 0.7s; }
+    .drift { animation: drift 9s ease-in-out infinite; }
+    @keyframes drift { 0%, 100% { transform: translate(0, 0); } 50% { transform: translate(-18px, 12px); } }
+    .drift2 { animation: drift2 11s ease-in-out infinite; }
+    @keyframes drift2 { 0%, 100% { transform: translate(0, 0); } 50% { transform: translate(14px, -10px); } }
+    .pulse { animation: pulse 2.4s ease-in-out infinite; }
+    @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.35; } }
+    .tw { animation: tw 4.5s ease-in-out infinite; opacity: 0.15; }
+    .t2 { animation-delay: 0.9s; } .t3 { animation-delay: 1.8s; } .t4 { animation-delay: 2.7s; } .t5 { animation-delay: 3.6s; }
+    @keyframes tw { 0%, 100% { opacity: 0.12; } 50% { opacity: 1; } }
+  </style>
+  <defs>
+    <clipPath id="canvas"><rect width="1200" height="440" rx="14"/></clipPath>
+    <clipPath id="strip"><rect x="0" y="388" width="1200" height="52"/></clipPath>
+
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFD166"/>
+      <stop offset="0.5" stop-color="#F7B32B"/>
+      <stop offset="1" stop-color="#F2711C"/>
+    </linearGradient>
+    <linearGradient id="mosaic" gradientUnits="userSpaceOnUse" x1="930" y1="96" x2="1200" y2="380">
+      <stop offset="0" stop-color="#FFD166"/>
+      <stop offset="0.5" stop-color="#F7B32B"/>
+      <stop offset="1" stop-color="#F2711C"/>
+    </linearGradient>
+    <linearGradient id="pill" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F7B32B" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#F2711C" stop-opacity="0.15"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F7B32B" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#F2711C" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="orbA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#F7B32B" stop-opacity="0.34"/>
+      <stop offset="0.45" stop-color="#F2711C" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#F2711C" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#B8431A" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#B8431A" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- pixel mosaic: echoes the square glyph used across the portfolio -->
+    <pattern id="sq" width="18" height="18" patternUnits="userSpaceOnUse">
+      <rect width="9" height="9" rx="1.5" fill="#FFFFFF"/>
+    </pattern>
+    <linearGradient id="fadeX" gradientUnits="userSpaceOnUse" x1="930" y1="0" x2="1110" y2="0">
+      <stop offset="0" stop-color="#000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fadeTop" gradientUnits="userSpaceOnUse" x1="0" y1="96" x2="0" y2="180">
+      <stop offset="0" stop-color="#000" stop-opacity="1"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fadeBottom" gradientUnits="userSpaceOnUse" x1="0" y1="320" x2="0" y2="382">
+      <stop offset="0" stop-color="#000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="mosaicMask" maskUnits="userSpaceOnUse" x="930" y="96" width="270" height="290">
+      <rect x="930" y="96" width="270" height="290" fill="url(#sq)"/>
+      <rect x="930" y="96" width="270" height="290" fill="url(#fadeX)"/>
+      <rect x="930" y="96" width="270" height="290" fill="url(#fadeTop)"/>
+      <rect x="930" y="96" width="270" height="290" fill="url(#fadeBottom)"/>
+    </mask>
+  </defs>
+
+  <g clip-path="url(#canvas)">
+    <!-- base -->
+    <rect width="1200" height="440" fill="#0A0A0A"/>
+
+    <!-- gradient glow -->
+    <circle class="drift" cx="1110" cy="170" r="360" fill="url(#orbA)"/>
+    <circle class="drift2" cx="880" cy="470" r="300" fill="url(#orbB)"/>
+
+    <!-- mosaic -->
+    <rect x="930" y="96" width="270" height="290" fill="url(#mosaic)" mask="url(#mosaicMask)" opacity="0.85"/>
+    <!-- a few lit squares (grid-aligned: pitch 18, offset 930/96) -->
+    <g fill="#FFD166">
+      <rect class="tw"      x="1074" y="204" width="9" height="9" rx="1.5"/>
+      <rect class="tw t2"   x="1110" y="150" width="9" height="9" rx="1.5"/>
+      <rect class="tw t3"   x="1146" y="258" width="9" height="9" rx="1.5"/>
+      <rect class="tw t4"   x="1092" y="294" width="9" height="9" rx="1.5"/>
+      <rect class="tw t5"   x="1164" y="186" width="9" height="9" rx="1.5"/>
+    </g>
+
+    <!-- frame -->
+    <rect x="0.5" y="0.5" width="1199" height="439" rx="14" fill="none" stroke="#2A2A2A"/>
+
+    <!-- eyebrow pill -->
+    <g class="fade d1">
+      <rect x="48" y="42" width="640" height="38" rx="19" fill="#0F0F0F" stroke="url(#pill)"/>
+      <circle class="pulse" cx="72" cy="61" r="5" fill="url(#brand)"/>
+      <text x="92" y="66" class="mono" font-size="14" letter-spacing="2" fill="#B8B8B8">OPEN TO INTERNSHIPS AND FULL-TIME ROLES  ·  CLASS OF 2027</text>
+    </g>
+
+    <!-- domain -->
+    <g class="fade d1">
+      <text x="1140" y="66" class="mono" font-size="13" letter-spacing="1" fill="#8C8C8C" text-anchor="end">santhoshsharrma.me ↗</text>
+    </g>
+
+    <!-- name -->
+    <g class="fade d2">
+      <text x="60" y="214" class="sans" font-size="92" font-weight="700" letter-spacing="-3" fill="#FFFFFF">Santhosh Sharma</text>
+      <rect x="64" y="236" width="120" height="3" rx="1.5" fill="url(#brand)"/>
+    </g>
+
+    <!-- tagline -->
+    <g class="fade d3">
+      <text x="64" y="288" class="sans" font-size="22" fill="#C9C9C9">Backend developer building with Java, Spring Boot and PostgreSQL.</text>
+      <text x="64" y="320" class="sans" font-size="22" fill="#8C8C8C">I want to build <tspan fill="#F7B32B" font-weight="600">products used by millions</tspan> and grow by solving real problems.</text>
+    </g>
+
+    <!-- ticker -->
+    <rect x="0" y="388" width="1200" height="1" fill="url(#rule)"/>
+    <g clip-path="url(#strip)">
+      <g class="ticker">
+        <text x="0" y="420" class="mono" font-size="14" letter-spacing="3" fill="#6E6E6E" textLength="3000" lengthAdjust="spacing">JAVA  <tspan fill="#F7B32B">◼</tspan>  SPRING BOOT  <tspan fill="#F7B32B">◼</tspan>  POSTGRESQL  <tspan fill="#F7B32B">◼</tspan>  REDIS  <tspan fill="#F7B32B">◼</tspan>  DOCKER  <tspan fill="#F7B32B">◼</tspan>  AWS  <tspan fill="#F7B32B">◼</tspan>  JUNIT 5  <tspan fill="#F7B32B">◼</tspan>  K6  <tspan fill="#F7B32B">◼</tspan>  JAVA  <tspan fill="#F7B32B">◼</tspan>  SPRING BOOT  <tspan fill="#F7B32B">◼</tspan>  POSTGRESQL  <tspan fill="#F7B32B">◼</tspan>  REDIS  <tspan fill="#F7B32B">◼</tspan>  DOCKER  <tspan fill="#F7B32B">◼</tspan>  AWS  <tspan fill="#F7B32B">◼</tspan>  JUNIT 5  <tspan fill="#F7B32B">◼</tspan>  K6  <tspan fill="#F7B32B">◼</tspan>  </text>
+      </g>
+    </g>
+  </g>
+</svg>
