@@ -4,10 +4,10 @@
 
 <br>
 
-Backend developer building with **Java, Spring Boot and PostgreSQL**.<br>
-I want to build products used by millions and grow by solving real problems.
 
-`CS UNDERGRAD` · `CLASS OF 2027` · `HYDERABAD, INDIA`
+
+
+`CS UNDERGRAD` · `BUILDING IN PUBLIC` · `HYDERABAD, INDIA`
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0A0A0A?style=for-the-badge&logo=vercel&logoColor=F7B32B)](https://santhoshsharrma.me/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=F7B32B)](https://www.linkedin.com/in/santhoshsharma)
@@ -28,11 +28,25 @@ Right now I'm building with **Java, Spring Boot, PostgreSQL, Redis and AWS**, an
 
 ---
 
-## ◼ 02 / Projects
+## ◼ 02 / Stack
+
+| | |
+|---|---|
+| **Backend** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-000000?style=flat-square&logo=swagger&logoColor=white) |
+| **Data & Caching** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white) ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| **Data background** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
+
+---
+
+## ◼ 03 / Projects
 
 ### 🥇 [XP Engine: Gamification & Real-Time Leaderboard Engine](https://github.com/santhoshsharrma/xp-engine) &nbsp;`Featured`
-Java Spring Boot REST API for XP awards, daily streaks and Redis-backed leaderboards. Idempotent event processing and PostgreSQL transaction locking prevent duplicate awards and lost updates.
+Built **XP Engine**, a gamification backend using Java 21, Spring Boot, PostgreSQL, and Redis to handle XP awards, daily streaks, and real-time leaderboards. Implemented idempotent event processing and transaction-level locking to prevent duplicate awards and lost updates under concurrent requests.
 
+Achieved:
 - **1.54 ms** p50 rank lookups at **1M+ users**
 - **~918 req/s** with **0% failures** across **110K+ requests** *(local environment)*
 
@@ -53,34 +67,21 @@ Concurrent crawler built without a framework. Discovers and downloads images fro
 
 ---
 
-## ◼ 03 / Education
+## ◼ 04 / Education
 
 | | |
 |---|---|
-| 🎓 **B.Tech, Data Science & Analytics** | Siddhartha Institute of Technology and Sciences · Class of 2027 · CGPA **8.17** |
+| 🎓 **B.Tech, Computer Science(Data Science)** | Siddhartha Institute of Technology and Sciences · Class of 2027 · CGPA **8.17** |
 
 ---
 
-## ◼ 04 / Recognition
+## ◼ 05 / Recognition
 
-- 🥈 **2nd Place, Best Project Award**: led a 3-member team among 120 participants (top 1.7%)
-- 🏅 **5th Place, National-Level Hackathon** (*BrainOVision*): top 0.7%
-- 📄 **Published research**: [*The Smart Property Risk Detection*](https://www.irjmets.com/paperdetail.php?paperId=fc3ccec3a0152477f42d0a9dba0bcbed), IRJMETS, Mar 2025. Led a 4-person team.
-
----
-
-## ◼ 05 / Stack
-
-| | |
-|---|---|
-| **Backend** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-000000?style=flat-square&logo=swagger&logoColor=white) |
-| **Data & Caching** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162?style=flat-square&logo=junit5&logoColor=white) ![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
-| **Data background** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
+- 🥈 **2nd Place, Best Project Award**: Spearheaded a 3-member team among 40 teams (top 1.7%)
+- 📄 **Published research**: [*Startup financial funding and investment insights*](https://ijdim.com/journal/index.php/ijdim/article/view/1412/1345), ijdim.com, Sep 2026. Spearheaded a 3-person team.
 
 ---
+
 
 ## ◼ 06 / Now
 
@@ -89,10 +90,12 @@ A Spring Boot backend for wallet-to-wallet transfers using atomic PostgreSQL tra
 
 `Java` `Spring Boot` `PostgreSQL` `Redis` `Docker` `k6` `JUnit 5` `JDBC`
 
-### 🎯 Preparing
-- 📚 **System Design**
-- 🐙 **GitHub Foundations Certification**
-- 🍃 **MongoDB Associate Developer Exam**
+### 🎯 Grinding
+-  **System Design**
+-  **Machine Coding**
+-  **GitHub Foundations Certification**
+-  **MongoDB Associate Developer Exam**
+-  **Data Structures & Algorithms**
 
 ---
 
